@@ -1,0 +1,6 @@
+E:\csharp\smtp发送邮件\smtp发送邮件\bin\Debug\smtp发送邮件.exe.config
+E:\csharp\smtp发送邮件\smtp发送邮件\bin\Debug\smtp发送邮件.exe
+E:\csharp\smtp发送邮件\smtp发送邮件\bin\Debug\smtp发送邮件.pdb
+E:\csharp\smtp发送邮件\smtp发送邮件\obj\Debug\smtp发送邮件.csprojResolveAssemblyReference.cache
+E:\csharp\smtp发送邮件\smtp发送邮件\obj\Debug\smtp发送邮件.exe
+E:\csharp\smtp发送邮件\smtp发送邮件\obj\Debug\smtp发送邮件.pdb
